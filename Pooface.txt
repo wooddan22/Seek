@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<Head><Title>Seek Search Engine</Title></Head>
+<Body>
+	<p>
+		<center> <h1>SEEK</h1> </center>
+	</p>
+<p> <center><input type= 'search' name= 'googlesearch'></center></p>
+
+<p> <center><button type="button"> Biggy Button</button><center></p>
+</body>
