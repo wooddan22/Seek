@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<Head><Title>Seek Search Engine</Title></Head>
+<Body>
+	<p>
+		<h1>SEEK</h1>
+	</p>
+</body>
